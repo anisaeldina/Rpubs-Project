@@ -1,27 +1,25 @@
-# 🍷 Wine Quality Prediction using Ridge Regression
+# 🍷 Red & White Wine Analysis using Ridge Regression
 
-This project focuses on statistical modeling and analysis to predict wine characteristics or quality using **Ridge Regression**. This regularization technique was specifically applied to address potential *multicollinearity* issues among the predictors, ensuring a more stable and reliable predictive model.
+This repository contains a comprehensive statistical analysis comparing **Red Wine** and **White Wine** characteristics using **Ridge Regression**. The project focuses on utilizing regularization methods to handle potential multicollinearity, ensuring stable and robust predictive models for wine quality traits.
 
 ---
 
 ### 📊 Interactive Report & Visualizations (RPubs)
-The complete analysis, data visualizations, model evaluations, and interactive R codes have been published and can be fully accessed through the link below:
+The full step-by-step analysis, data visualization, code breakdown, and model evaluation are fully published and accessible via RPubs:
 
-👉 [**View Interactive Report on RPubs**]([https://rpubs.com](https://rpubs.com/AnisaEldina/RidgeRegressionWine))
-
----
-
-### 🚀 Key Analytical Steps
-Inside this project, the following core workflows were implemented:
-* **Exploratory Data Analysis (EDA):** Visualizing features, distributions, and correlation matrices of the wine dataset.
-* **Multicollinearity Diagnostics:** Examining why a standard OLS regression needed a penalty adjustment.
-* **Ridge Model Tuning:** Selecting the optimal penalty parameter (*lambda* λ) to minimize prediction errors.
-* **Model Evaluation:** Performance assessment using standard regression metrics.
-
-### 🛠️ Tech Stack & Libraries
-* **Language:** R
-* **Key Packages:** `glmnet`, `tidyverse`, `ggplot2`, `caret` *(feel free to change or add packages you actually used)*
+👉 [**View Full Interactive Report on RPubs**](https://rpubs.com/AnisaEldina/RidgeRegressionWine)
 
 ---
 
-*This repository serves as a data science portfolio piece demonstrating regression regularizations in R Markdown.*
+### 🚀 Key Analytical Workflows
+* **Comparative Data Exploration:** Analyzing and visualizing the distinct features between Red Wine and White Wine datasets.
+* **Multicollinearity Diagnostics:** Identifying correlation issues within predictors that justify the shift to Ridge Regression.
+* **Ridge Regularization Modeling:** Finding the optimal shrink parameter (*lambda* λ) to minimize prediction error.
+* **Performance Assessment:** Evaluating and comparing the regression outputs for both wine variants.
+
+### 🛠️ Tech Stack & Packages
+* **Language:** R (R Markdown)
+* **Key Libraries:** `glmnet`, `tidyverse`, `ggplot2`, `caret` *(feel free to modify based on your script)*
+
+---
+*Developed as part of a professional data science portfolio.*
