@@ -7,7 +7,7 @@ This repository contains a comprehensive statistical analysis comparing **Red Wi
 ### 📝 Interactive Report & Visualizations (RPubs)
 The full step-by-step analysis, data visualization, code breakdown, and model evaluation are fully published and accessible via RPubs:
 
-👉🏻 [**View Full Interactive Report on RPubs**](https://rpubs.com/AnisaEldina/RidgeRegressionWine)
+👉🏻 [**View Full Report on RPubs**](https://rpubs.com/AnisaEldina/RidgeRegressionWine)
 
 ---
 
