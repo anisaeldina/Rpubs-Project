@@ -7,7 +7,7 @@ This project focuses on statistical modeling and analysis to predict wine charac
 ### 📊 Interactive Report & Visualizations (RPubs)
 The complete analysis, data visualizations, model evaluations, and interactive R codes have been published and can be fully accessed through the link below:
 
-👉 [**View Interactive Report on RPubs**](https://rpubs.com)
+👉 [**View Interactive Report on RPubs**]([https://rpubs.com](https://rpubs.com/AnisaEldina/RidgeRegressionWine))
 
 ---
 
