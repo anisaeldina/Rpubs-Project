@@ -14,7 +14,7 @@ The full step-by-step analysis, data visualization, code breakdown, and model ev
 ### 🖥️ Live Interactive Dashboard (ShinyApps)
 An interactive web application built to explore the data, adjust parameters, and test the Ridge Regression model predictions in real-time:
 
-👉🏻 [**Launch Interactive Dashboard on ShinyApps**]([https://shinyapps.io](https://nairaaqila.shinyapps.io/RidgeRegression-WineQuality/))
+👉🏻 [**Launch Interactive Dashboard on ShinyApps**](https://nairaaqila.shinyapps.io/RidgeRegression-WineQuality/)
 
 ---
 
